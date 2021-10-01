@@ -216,7 +216,7 @@ color: var(--white-color);
   padding-bottom: 47px;
 }
 .adv-list {
-  /* display: flex; */
+   display: flex;
 }
 .adv-item {
   font-style: normal;
@@ -228,7 +228,7 @@ color: var(--white-color);
   text-decoration: none;
   color: var(--dark-color);
 }
-
+ 
 .adv-text{
   font-style: normal;
   font-weight: 400;
